@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ProjectModularPlugin",
+	"Description": "Create Plugin Project for Modular.",
+	"Category": "Modular",
+	"CreatedBy": "Shrimp",
+	"CreatedByURL": "",
+	"DocsURL": "https://blog.csdn.net/ShrimpsChen/article/details/146552623",
+	"FabURL": "com.epicgames.launcher://ue/Fab/product/a6b6721d-1589-46e8-b2cb-4b44a8aff671",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/a6b6721d-1589-46e8-b2cb-4b44a8aff671",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ProjectModularPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [ "Win64", "Android" ]
+		}
+	]
+}
