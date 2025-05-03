@@ -25,6 +25,16 @@
 			"Name": "HTTPRequestForBlueprints",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4a9830d1cea14a28bae31127f41a210b"
+		},
+		{
+			"Name": "BlueprintJson",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f837e4835fbc434a853fe1ead2410b84"
+		},
+		{
+			"Name": "FileHelper",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bec5be3d587f4ff49a61d45d0e81e4c0"
 		}
 	]
 }
